@@ -1,0 +1,18 @@
+"use strict";
+// Observable class extensions
+require('rxjs/add/observable/of');
+require('rxjs/add/observable/throw');
+// Observable operators
+require('rxjs/add/operator/catch');
+require('rxjs/add/operator/debounceTime');
+require('rxjs/add/operator/distinctUntilChanged');
+require('rxjs/add/operator/do');
+require('rxjs/add/operator/filter');
+require('rxjs/add/operator/map');
+require('rxjs/add/operator/switchMap');
+/*
+Copyright 2016 Google Inc. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at http://angular.io/license
+*/ 
+//# sourceMappingURL=rxjs-extensions.js.map
