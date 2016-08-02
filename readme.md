@@ -19,7 +19,7 @@ You'll also need to enable [CORS](https://developer.mozilla.org/en-US/docs/Web/H
 
 ## License
 
-All code under the client folder is from the [Angular 2 Quickstart project](https://angular.io/docs/ts/latest/tutorial/toh-pt6.html) and generally is covered under the [Angular liscense](http://angular.io/license). It is copied here: 
+All code under the client folder is from the [Angular 2 Quickstart project](https://angular.io/docs/ts/latest/tutorial/toh-pt6.html) and generally is covered under the [Angular license](http://angular.io/license). It is copied here: 
 
 > The MIT License
 
